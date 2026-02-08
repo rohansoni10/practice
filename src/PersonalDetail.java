@@ -14,6 +14,10 @@ public class PersonalDetail {
         name = n;
     }
 
+    void getAddress() {
+        System.out.println(name);
+    }
+
 }
 
 
